@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
 }
+html {
+    scroll-behavior: smooth;
+}
+
 ul{
     list-style: none;
 }
@@ -97,7 +101,7 @@ header ul li a:hover , .active{
     line-height: 1.6;
     font-size: 17px;
 }
-.content .sam{
+.content .sum{
     border-left: 1px solid white;
     padding: 0px 10px;
 }
